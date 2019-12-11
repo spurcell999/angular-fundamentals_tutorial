@@ -7,7 +7,6 @@ declare let toastr
 
 
 @Component({
-  selector: 'events-list',
   template: `
     <div>
       <h2>Upcoming Angular Events</h2>
